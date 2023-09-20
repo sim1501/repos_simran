@@ -1,3 +1,3 @@
-select * from names where name="simran";
-select * from names where name like 's%';
-select * from names where name like 'k%';
+select * from simmitest.default.names where name="simran";
+select * from simmitest.default.names where name like 's%';
+select * from simmitest.default.names where name like 'k%';
